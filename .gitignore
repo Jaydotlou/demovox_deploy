@@ -1,0 +1,25 @@
+# Ignore the .env file (contains sensitive keys)
+.env
+
+# Ignore unnecessary system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore virtual environments
+venv/
+*.venv
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore audio output files if not needed in the repo
+audio/output/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore specific audio files and folders
+audio/response_audio.wav
+audio/user_inputs/

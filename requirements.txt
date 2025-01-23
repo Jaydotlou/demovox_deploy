@@ -1,0 +1,9 @@
+os
+streamlit
+gtts
+pydub
+simpleaudio
+speechrecognition
+python-dotenv
+langchain
+langchain_openai
